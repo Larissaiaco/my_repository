@@ -1,2 +1,3 @@
-# my_repository
-for demo
+# Hello!
+
+This is the intro for Github.
